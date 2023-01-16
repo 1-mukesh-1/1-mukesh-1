@@ -4,7 +4,9 @@
 
 
 <div style="font-size:30px">
-- 🌱 I’m currently exploring computational finance
-- 👯 I’m looking to collaborate on developing finance products
-- 📫 How to reach me: linktr.ee/mukeshcheemakurthi
-<div>
+<ul> 
+<li> 🌱 I’m currently exploring computational finance </li> 
+<li> 👯 I’m looking to collaborate on developing finance products </li> 
+<li> 📫 How to reach me: linktr.ee/mukeshcheemakurthi </li> 
+</ul>
+</div>
