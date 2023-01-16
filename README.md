@@ -4,12 +4,13 @@
 
 We can connect @ [![Linkedin: thaianebraga](https://img.shields.io/badge/-mukesh003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukesh-cheemakurthi-039b65170/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mukesh-cheemakurthi-039b65170/))
 
-Follow me on [![GitHub Thaiane](https://img.shields.io/github/followers/mukesh003?label=follow&style=social)](https://github.com/1-mukesh-1)
+Follow me on
+[![GitHub Thaiane](https://img.shields.io/github/followers/mukesh003?label=follow&style=social)](https://github.com/1-mukesh-1)
 
 <h3>
 <ul>
 <li> 🌱 I’m currently exploring computational finance </li> 
 <li> 👯 I’m looking to collaborate on developing finance products </li> 
-<li> 📫 mail me @<a href="mailto:chmukesh1612@gmail.com">chmukesh1612@gmail.com</a> </li> 
+<li> 📫 I'm reachable <a href="mailto:chmukesh1612@gmail.com">@chmukesh1612@gmail.com</a> </li> 
 </ul>
 </h3>
