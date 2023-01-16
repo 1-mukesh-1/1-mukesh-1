@@ -6,6 +6,6 @@
 <ul>
 <li> 🌱 I’m currently exploring computational finance </li> 
 <li> 👯 I’m looking to collaborate on developing finance products </li> 
-<li> 📫 How to reach me: linktr.ee/mukeshcheemakurthi </li> 
+<li> 📫 How to reach me: <a href="linktr.ee/mukeshcheemakurthi">linktree</a> </li> 
 </ul>
 </h3>
