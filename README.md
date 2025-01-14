@@ -6,8 +6,8 @@
 
 <b>
 <ul>
-<li> 🌱 I’m currently exploring AI and computational finance </li> 
-<li> 👯 I’m looking to collaborate on developing finance products </li> 
-<li> 📫 I'm reachable @<a href="mailto:chmukesh1612@gmail.com">chmukesh1612@gmail.com</a> </li> 
+<li> 🌱 Exploring AI and computational finance </li> 
+<li> 👯 Looking forward to collaborate on developing finance products </li> 
+<li> 📫 Reachable @<a href="mailto:chmukesh1612@gmail.com">chmukesh1612@gmail.com</a> </li> 
 </ul>
 </b>
