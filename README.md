@@ -6,8 +6,6 @@
 
 <b>
 <ul>
-<li> 🌱 Exploring AI and computational finance </li> 
-<li> 👯 Looking forward to collaborate on developing finance products </li> 
-<li> 📫 Reachable @<a href="mailto:chmukesh1612@gmail.com">chmukesh1612@gmail.com</a> </li> 
+<li> 🌱 Exploring AI/ML </li> 
 </ul>
 </b>
